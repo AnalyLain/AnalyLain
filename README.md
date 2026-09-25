@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @AnalyLain, a MtF🏳️‍⚧️ at TUST
+  - 🫶You can also call me LinXiaoBei ~
 - 👀 I’m interested in War Thunder
 - 🌱 I’m currently learning C++ & Qt
 - 📫 How to reach me
