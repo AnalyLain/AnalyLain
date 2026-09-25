@@ -5,5 +5,5 @@
 - 📫 How to reach me
   - 📧E-mail: Analylain@gmail.com
   - 🦅Twitter: [@Analylain_01](https://x.com/AnalyLain_01)
-  - ✈️Telegram: Sorry my Telegram had died qwq
+  - ✈️Telegram: Sorry my Telegram had died qwq...
 - 📺 My Bilibili id is [林小北](https://space.bilibili.com/1616358891)
