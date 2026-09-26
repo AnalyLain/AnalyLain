@@ -4,6 +4,6 @@
 - 🌱 I’m currently learning C++ & Qt
 - 📫 How to reach me
   - 📧E-mail: Analylain@gmail.com
-  - 🦅Twitter: [@Analylain_01](https://x.com/AnalyLain_01)
-  - ✈️Telegram: [林小北不是小杯杯🍥](https://t.me/analylain_01/)
-- 📺 My Bilibili id is [林小北不是小杯杯](https://space.bilibili.com/1616358891)
+  - 🦅Twitter: [@AnalyLain_01](https://x.com/AnalyLain_01)
+  - ✈️Telegram: [AnalyLain_01](https://t.me/analylain_01/)
+- 📺 My Bilibili id is [林小北不是小杯杯🍥](https://space.bilibili.com/1616358891)
